@@ -40,7 +40,6 @@ def upload_files(url="http://127.0.0.1:5000/", input_folder=""):
   headers = {}
   #passing empty payload
   payload={}
-  
   #calling api
   response = request("POST", url, headers=headers, data=payload, files=files_data)
   print(response.text)
