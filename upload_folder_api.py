@@ -1,6 +1,5 @@
 #import required libraries
 from requests import request
-import os
 from os import listdir
 from os.path import isfile, join, isdir
 
@@ -45,7 +44,6 @@ def upload_files(url="http://127.0.0.1:5000/", input_folder=""):
   #calling api
   response = request("POST", url, headers=headers, data=payload, files=files_data)
   print(response.text)
-
 
 #passing input folder
 source_folder = "C:/Users/littinrajan/projects/nextgen/sample"
