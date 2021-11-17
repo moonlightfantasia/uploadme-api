@@ -5,6 +5,8 @@ An API to upload all the files located in the specified directory to server
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/894d07e0455c48d3aa6c3cf3d8364bab)](https://www.codacy.com/gh/moonlightfantasia/uploadme-api/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=moonlightfantasia/uploadme-api&amp;utm_campaign=Badge_Grade)
 ![License](https://img.shields.io/github/license/moonlightfantasia/uploadme-api)
 [![GitHub branches](https://badgen.net/github/branches/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/)
+[![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
+[![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
 ![Issues](https://img.shields.io/github/issues/moonlightfantasia/uploadme-api)
 ![Stars](https://img.shields.io/github/stars/moonlightfantasia/uploadme-api)
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
