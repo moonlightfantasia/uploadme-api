@@ -6,4 +6,5 @@ An API to upload all the files located in the specified directory to server
 ![Issues](https://img.shields.io/github/issues/moonlightfantasia/uploadme-api)
 ![Stars](https://img.shields.io/github/stars/moonlightfantasia/uploadme-api)
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 ![License](https://img.shields.io/github/license/moonlightfantasia/uploadme-api)
