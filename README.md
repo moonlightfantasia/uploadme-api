@@ -12,3 +12,6 @@ An API to upload all the files located in the specified directory to server
 <!-- [![GitHub branches](https://badgen.net/github/branches/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/)
 [![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
 [![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/) -->
+
+
+[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=moonlightfantasia/uploadme-api)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=moonlightfantasia/uploadme-api)
